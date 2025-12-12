@@ -1,6 +1,6 @@
 # Load required library
 library(ggplot2)
-
+# install.packages("ggplot2") //for higher version
 # 1. Load data
 
 data <- read.csv("smartphone_cleaned_v5.csv")
